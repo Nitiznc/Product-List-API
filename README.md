@@ -1,2 +1,2 @@
 # Product-List-API
-📦 A RESTful API to fetch, filter, and manage a list of products.
+🔐📦 A secure RESTful API built with Spring Boot to fetch, filter, and manage a product list. Features authentication & authorization using Spring Security
